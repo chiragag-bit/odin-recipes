@@ -1,1 +1,1 @@
-# odin-recipes
+this is my first project of foundation following odin project to test Basic HTML tags and elements
